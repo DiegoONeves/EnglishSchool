@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using DN.EnglishSchool.Infra.DI;
 
 namespace DN.EnglishSchool.API
 {
@@ -24,6 +25,8 @@ namespace DN.EnglishSchool.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            BootStrapper.RegisterServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,5 +39,6 @@ namespace DN.EnglishSchool.API
 
             app.UseMvc();
         }
+
     }
 }

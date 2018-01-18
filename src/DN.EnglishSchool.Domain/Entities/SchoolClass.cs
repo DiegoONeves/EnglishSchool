@@ -9,7 +9,7 @@ namespace DN.EnglishSchool.Domain.Entities
         public Guid SchoolClassId { get; set; }
         public string ClassName { get; set; }
         public Teacher Teacher { get; set; }
-        public ICollection<Student> Studenties { get; set; }
+        public ICollection<Student> Studenties { get; set; } = new List<Student>();
         public DateTime BeginDate { get; set; }
         public DateTime EndDate { get; set; }
         public StatusClass StatusClass { get; set; }

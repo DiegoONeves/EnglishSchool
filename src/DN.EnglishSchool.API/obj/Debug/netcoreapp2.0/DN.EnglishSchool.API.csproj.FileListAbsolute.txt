@@ -1,0 +1,17 @@
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.API.deps.json
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.API.runtimeconfig.json
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.API.runtimeconfig.dev.json
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.API.dll
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.API.pdb
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.Domain.dll
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.Infra.DI.dll
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.Domain.pdb
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.Infra.DI.pdb
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\obj\Debug\netcoreapp2.0\DN.EnglishSchool.API.csprojResolveAssemblyReference.cache
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\obj\Debug\netcoreapp2.0\DN.EnglishSchool.API.csproj.CoreCompileInputs.cache
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\obj\Debug\netcoreapp2.0\DN.EnglishSchool.API.AssemblyInfoInputs.cache
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\obj\Debug\netcoreapp2.0\DN.EnglishSchool.API.AssemblyInfo.cs
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\obj\Debug\netcoreapp2.0\DN.EnglishSchool.API.dll
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\obj\Debug\netcoreapp2.0\DN.EnglishSchool.API.pdb
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.Infra.Data.dll
+C:\Projetos\DN.EnglishSchool\src\DN.EnglishSchool.API\bin\Debug\netcoreapp2.0\DN.EnglishSchool.Infra.Data.pdb

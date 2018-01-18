@@ -6,6 +6,13 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DN.EnglishSchool.Domain\DN.EnglishSchool.Domain.csproj" />
+    <ProjectReference Include="..\DN.EnglishSchool.Infra.Data\DN.EnglishSchool.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

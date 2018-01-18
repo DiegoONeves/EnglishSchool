@@ -4757,11 +4757,29 @@
           "bin/placeholder/DN.EnglishSchool.Domain.dll": {}
         }
       },
+      "DN.EnglishSchool.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "DN.EnglishSchool.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
+          "Microsoft.Extensions.Configuration.FileExtensions": "2.0.0",
+          "Microsoft.Extensions.Configuration.Json": "2.0.0",
+          "microsoft.Extensions.Configuration": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DN.EnglishSchool.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DN.EnglishSchool.Infra.Data.dll": {}
+        }
+      },
       "DN.EnglishSchool.Infra.DI/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "DN.EnglishSchool.Domain": "1.0.0"
+          "DN.EnglishSchool.Domain": "1.0.0",
+          "DN.EnglishSchool.Infra.Data": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DN.EnglishSchool.Infra.DI.dll": {}
@@ -12552,6 +12570,11 @@
       "type": "project",
       "path": "../DN.EnglishSchool.Domain/DN.EnglishSchool.Domain.csproj",
       "msbuildProject": "../DN.EnglishSchool.Domain/DN.EnglishSchool.Domain.csproj"
+    },
+    "DN.EnglishSchool.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../DN.EnglishSchool.Infra.Data/DN.EnglishSchool.Infra.Data.csproj",
+      "msbuildProject": "../DN.EnglishSchool.Infra.Data/DN.EnglishSchool.Infra.Data.csproj"
     },
     "DN.EnglishSchool.Infra.DI/1.0.0": {
       "type": "project",

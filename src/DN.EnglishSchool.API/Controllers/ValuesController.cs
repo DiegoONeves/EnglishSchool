@@ -3,12 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using DN.EnglishSchool.Domain.Repositories;
+using DN.EnglishSchool.Domain.Entities;
 
 namespace DN.EnglishSchool.API.Controllers
 {
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+        public ValuesController(IUserRepository userRepository)
+        {
+
+        }
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
